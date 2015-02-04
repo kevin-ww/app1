@@ -46,5 +46,6 @@ dependencies {
 //    compile 'com.android.support:appcompat-v7:21.0.3'
     compile 'junit:junit:4.11'
     compile 'org.robolectric:robolectric:2.4'
+    compile 'com.alibaba:fastjson:1.2.4'
 
 }

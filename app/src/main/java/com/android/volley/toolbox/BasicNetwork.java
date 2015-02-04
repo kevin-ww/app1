@@ -51,7 +51,7 @@ import java.util.Map;
 import java.util.TreeMap;
 
 /**
- * A network performing Volley requests over an {@link com.android.volley.toolbox.HttpStack}.
+ * A network performing Volley requests over an {@link HttpStack}.
  */
 public class BasicNetwork implements Network {
     protected static final boolean DEBUG = VolleyLog.DEBUG;

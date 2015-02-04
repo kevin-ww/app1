@@ -44,7 +44,7 @@ import javax.net.ssl.HttpsURLConnection;
 import javax.net.ssl.SSLSocketFactory;
 
 /**
- * An {@link com.android.volley.toolbox.HttpStack} based on {@link java.net.HttpURLConnection}.
+ * An {@link HttpStack} based on {@link java.net.HttpURLConnection}.
  */
 public class HurlStack implements HttpStack {
 

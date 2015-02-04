@@ -157,7 +157,7 @@ public abstract class Request<T> implements Comparable<Request<T>> {
 
     /**
      * Returns this request's tag.
-     * @see com.android.volley.Request#setTag(Object)
+     * @see Request#setTag(Object)
      */
     public Object getTag() {
         return mTag;
